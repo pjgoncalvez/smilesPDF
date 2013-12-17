@@ -1,0 +1,32 @@
+{
+  "name": "PDFsmiles",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description" : "Abre automaticamente ficheiros PDF da plataforma smiles numa nova tab/janela. 12/2013 Pedro Gonçalves, ispg2992@ispgaya.pt",
+  "icons": { "16": "icons/16x16.png", "48": "icons/48x48.png", "128": "icons/128x128.png" },
+
+  "omnibox": { "keyword" : "pdfSmiles" },
+
+  "browser_action": {
+    "default_icon": {
+      "19": "icons/19x19.png",
+      "38": "icons/38x38.png"
+    },
+    "default_title": "Clique para abrir o pdf numa nova página",
+    "default_popup": "browseraction/popup.html"
+  },
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["http://smiles.ispgaya.pt/*"],
+      "js": ["content.js"]
+    }
+  ],
+
+  "devtools_page": "devtools/devtools.html"
+}
