@@ -1,5 +1,12 @@
-=========   smilesPDF   =========
 
+smilesPDF
+-------------------------
+
+Extensão para o Google Chrome que abre numa nova `Tab` um documento PDF do da plataforma de e-learning do ISPGaya (smiles).
+Facilita a vida de quem vizualiza documentos PDF embebidos no Smiles e tem de constantemente procurar no codigo fonte da página o link direto para abrir o ficheiro.
+
+Instalação
+----------------------
 
 Nas opções do Chrome vá a, Ferramentas -> Extensões
 
@@ -15,4 +22,7 @@ Ao abrir uma página que contenha um documento PDF embebido, clique no icon da e
 
 ![Alt PDFsmiles](http://i.imgur.com/Lhv33AO.png)
 
-========= ispg2992@ispgaya.pt =========
+
+ispg2992@ispgaya.pt
+----------------------
+
