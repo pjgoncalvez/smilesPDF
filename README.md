@@ -11,7 +11,7 @@ Nas opções do Chrome vá a, Ferramentas -> Extensões
 
 ![Alt Opções](http://i.imgur.com/9UJTbBX.png)
 
-Faça o download da extensão [PDFsmiles.crx](https://github.com/pjgoncalves/smilesPDF/blob/master/PDFsmiles.crx "Download")
+Faça o download da extensão [PDFsmiles.crx](https://www.dropbox.com/s/bskks289gbcder8/PDFsmiles.crx "Download")
 
 Arraste o ficheiro para a janela das extensões do Chrome.
 
