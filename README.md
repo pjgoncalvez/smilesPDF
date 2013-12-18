@@ -1,7 +1,7 @@
 smilesPDF
 -------------------------
 
-Extensão para o Google Chrome que abre numa nova `Tab` um documento PDF do da plataforma de e-learning do ISPGaya (smiles).
+Extensão para o Google Chrome que abre numa nova `Tab` um documento PDF da plataforma de e-learning do ISPGaya (smiles).
 Facilita a vida de quem visualiza documentos PDF embebidos no Smiles e tem de constantemente procurar no codigo fonte da página o link direto para abrir o ficheiro.
 
 Instalação
